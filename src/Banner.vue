@@ -10,7 +10,7 @@
             <div class="creat"> created to change everything for better for everyone </div>
         <button class="but" type="text">shop now</button>
     </div>
-    <div class="img"><img src="file:///C:/Users/naiti/Downloads/Iphone%20Image.svg" alt=""></div>
+    <div class="img"><img src="/assets/IphoneImage.png" alt=""></div>
 
  </div>
    

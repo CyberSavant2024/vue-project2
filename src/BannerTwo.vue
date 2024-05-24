@@ -10,12 +10,12 @@
 
  <div class="banner">
     <div class="firstimg">
-        <img src="C:\Users\naiti\Downloads\image 6 (1).png" alt="">
+        <img src="/assets/image6.png" alt="">
     </div>
     
 
-    <div class="thirdimg"><img src="C:\Users\naiti\Downloads\jbl_jr_310bt_blue 1.png" alt=""></div>
-    <div class="secondimg"><img src="C:\Users\naiti\Downloads\image 18.png" alt=""></div>
+    <div class="thirdimg"><img src="/assets/jbl_jr_310bt_blue 1.png" alt=""></div>
+    <div class="secondimg"><img src="/assets/image18.png" alt=""></div>
  <div class="conte">
     <div class="text">
     <div class="title">
@@ -36,9 +36,9 @@
  
 
  <div class="forth">
-    <img src="C:\Users\naiti\Downloads\image 8.png" alt="">
+    <img src="/assets/image45.png" alt="">
  </div>
- <div class="fifth"><img src="C:\Users\naiti\Downloads\image 7.png" alt=""></div>
+ <div class="fifth"><img src="/assets/image7.png" alt=""></div>
 
  </div>
     
